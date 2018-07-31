@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	background-image: url(../img/port1.jpg);
+	background-attachment: fixed;
+
+
+
+}
+
+.head {
+	font-size: 70px;
+	font-family: 'Aclonica', sans-serif;
+	color: red;
+
+}
+
+.paint{
+	margin: 20px 0;
+	color: yellow;
+}
